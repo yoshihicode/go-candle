@@ -1,4 +1,4 @@
-module github.com/y-hatano-github/go-candle
+module github.com/yoshihicode/go-candle
 
 go 1.12
 

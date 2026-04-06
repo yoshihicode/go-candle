@@ -6,7 +6,7 @@ Seeing fire make you feel calm.<br>
 
 ## Joke command developed based on this code
 I created joke command based on this code as follows. <br>
-[https://github.com/y-hatano-github/candle](https://github.com/y-hatano-github/candle)
+[https://github.com/yoshihicode/candle](https://github.com/yoshihicode/candle)
 
 ## How to get and run the code.
 ### build version
@@ -14,12 +14,12 @@ go1.12.17
 ### 1st step
 Get the code.
 ```
-go get -d github.com/y-hatano-github/go-candle
+go get -d github.com/yoshihicode/go-candle
 ```
 ### 2nd step
 Change directory to the source code directory.
 ```
-cd $GOPATH/src/github.com/y-hatano-github/go-candle
+cd $GOPATH/src/github.com/yoshihicode/go-candle
 ```
 ### 3rd step
 Run the code.
@@ -32,4 +32,4 @@ Terminal which run this app must support 256 colors.
 [esc / CTRL+C] - exit<br>
 
 ## Win/Mac/Linux binary
-https://github.com/y-hatano-github/go-candle/releases/
+https://github.com/yoshihicode/go-candle/releases/
